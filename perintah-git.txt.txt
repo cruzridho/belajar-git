@@ -36,4 +36,11 @@ Mengelola folder kerja (working folder)
     git commit -m "keterangan perubahan"
 
 5.  Melihat history perubahan
-    git log 
+    git log
+
+6.  Edit 
+
+Setting username and email
+1.  Setting username --global user.name "Endy Muhardin"
+
+2   Setting useremail --global user.email endy.muhardin@gmail.com
