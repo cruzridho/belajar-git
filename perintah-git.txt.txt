@@ -41,6 +41,6 @@ Mengelola folder kerja (working folder)
 6.  Edit 
 
 Setting username and email
-1.  Setting username --global user.name "Endy Muhardin"
+1.  Setting username --global user.name "Cruz Ridho Pradana"
 
-2   Setting useremail --global user.email endy.muhardin@gmail.com
+2   Setting useremail --global user.email cruzridho@gmail.com
